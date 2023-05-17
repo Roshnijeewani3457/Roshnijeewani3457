@@ -1,10 +1,11 @@
-### Hi there 👋
+
+
 <h1 align="center">Hi 👋, I'm Roshni jeewani</h1>
 <h3 align="center">A passionate, enthusiastic frontend developer who is deeply driven by their love for creating captivating and intuitive user interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshnijeewani3457&label=Profile%20views&color=0e75b6&style=flat" alt="roshnijeewani3457" /> </p>
 
-- 🔭 I’m currently working on [Fitness website(GLAMFIT)](https://roshnijeewani3457.github.io/GLAMfit)
+- 🔭 I’m currently working on [Fitness website(GLAMFIT)] (https://roshnijeewani3457.github.io/GLAMfit)
 
 - 🌱 I’m currently learning **DSA(Java),Backend (Nodejs),MySQL etc**
 
@@ -13,7 +14,7 @@
 - 📫 How to reach me **rjeewani555@gmail.com**
 
 - ⚡ Fun fact **Spreading Kindness everywhere I go.**
-
+<img src=
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rjeewani555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rjeewani555" height="30" width="40" /></a>
