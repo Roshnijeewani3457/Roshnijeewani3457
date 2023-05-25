@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Fitness website(GLAMFIT)] (https://roshnijeewani3457.github.io/GLAMfit)
 
-- 🌱 I’m currently learning **DSA(Java),Backend (Nodejs),MySQL etc**
+- 🌱 I’m currently learning **DSA(Java),MySQL etc**
 
 - 💬 Ask me about **Html, CSS,Javascript(Frontend Development)**
 
