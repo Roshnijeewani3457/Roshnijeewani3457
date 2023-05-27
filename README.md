@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshnijeewani3457&label=Profile%20views&color=0e75b6&style=flat" alt="roshnijeewani3457" /> </p>
 <p align="left"> <a href="https://twitter.com/rjeewani555" target="blank"><img src="https://img.shields.io/twitter/follow/rjeewani555?logo=twitter&style=for-the-badge" alt="rjeewani555" /></a> </p>
 
-- 🔭 I’m currently working on **SkAI - Voice Command Assistant with Chat GPT and Bing API**
+
 - 🔭 I’m currently working on [Fitness website(GLAMFIT)] (https://roshnijeewani3457.github.io/GLAMfit)
 
 - 🌱 I’m currently learning **DSA(Java),MySQL etc**
