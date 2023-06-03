@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/rjeewani555" target="blank"><img src="https://img.shields.io/twitter/follow/rjeewani555?logo=twitter&style=for-the-badge" alt="rjeewani555" /></a> </p>
 
 
-- 🔭 I’m currently working on [Fitness website(GLAMFIT)] (https://roshnijeewani3457.github.io/GLAMFIT/)
+- 🔭 I’m currently working on [Fitness website(GLAMFIT)] (https://roshnijeewani3457.github.io/Fitness_Center_GLAMFIT/ )
 
 - 🌱 I’m currently learning **DSA(Java),MySQL etc**
 
