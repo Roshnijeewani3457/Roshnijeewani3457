@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Fitness website(GLAMFIT)] (https://roshnijeewani3457.github.io/Fitness_Center_GLAMFIT/ )
 
-- 🌱 I’m currently learning **DSA(Java),MySQL etc**
+- 🌱 I’m currently learning **Java Development**
 
-- 💬 Ask me about **Html, CSS,Javascript(Frontend Development)**
+- 💬 Ask me about **Html, CSS,Javascript(Frontend Development),Java,Python,MySQL**
 
 - 📫 How to reach me **rjeewani555@gmail.com**
 
